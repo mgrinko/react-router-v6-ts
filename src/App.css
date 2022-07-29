@@ -1,0 +1,8 @@
+a {
+  margin-right: 0.3rem;
+  padding: 0.5rem;
+}
+
+.is-active {
+  background-color: #ccc;
+}
